@@ -1,2 +1,3 @@
 # hello-world
 Getting started with GitHub version control
+Aloha, my name is Christian Ka'ikekuponoaloha Dye, I am a young PhD with aspirations to pursue a career as an epigenetic epidemiologist. My career goals are to obtain my own independence as a researcher with a laboratory and various federal funding mechanisms to perform research into the immunoepigenetic mechanisms that underlie cardiometabolic disease risk, with an interest in Native Hawaiians and other underrepresented populations. Further, I hope to extend my research to the general population with similar disease risk, ultimately with the goal to discover and design novel strategies for disease management, mitigation, preventation, and targeted therapies.
